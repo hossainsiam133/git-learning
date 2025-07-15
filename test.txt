@@ -1,5 +1,6 @@
 This is test file
 This second time that have edited this file
+Edited in Feature 1 Branch
 Edited in Feature 2 Branch
 
 This is stash
