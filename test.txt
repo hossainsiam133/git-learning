@@ -4,3 +4,5 @@ Edited in Feature 1 Branch
 Edited in Feature 2 Branch
 
 This is stash
+
+Added 2 line from GutHub
